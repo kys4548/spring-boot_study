@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d822a66d-f46a-4192-a7b2-1492c93a0f98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VmPLFBVCuAr4EiZa3TeK9sogan" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="me.youngsil.sample" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.youngsil.sample" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SampleControllerTest.hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-project07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.youngsil.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.youngsil.sample" />
+      <option name="MAIN_CLASS_NAME" value="me.youngsil.sample.SampleControllerTest" />
+      <option name="METHOD_NAME" value="hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SampleControllerTest.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d822a66d-f46a-4192-a7b2-1492c93a0f98" name="Default Changelist" comment="" />
+      <created>1577855238611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577855238611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="111" key="#Project_Structure" timestamp="1577857753770">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="735" y="111" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1577857753770" />
+    <state x="1095" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1577857744115">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1095" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1577857744115" />
+    <state width="1341" height="186" key="GridCell.Tab.0.bottom" timestamp="1577863972252">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="186" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577863972252" />
+    <state width="1341" height="186" key="GridCell.Tab.0.center" timestamp="1577863972250">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="186" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1577863972250" />
+    <state width="1341" height="186" key="GridCell.Tab.0.left" timestamp="1577863972249">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="186" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1577863972249" />
+    <state width="1341" height="186" key="GridCell.Tab.0.right" timestamp="1577863972251">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="186" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1577863972251" />
+    <state x="1084" y="146" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577858447127">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1084" y="146" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1577858447127" />
+    <state x="381" y="256" key="new project wizard" timestamp="1577863964318">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="381" y="256" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1577863964318" />
+    <state x="974" y="181" key="search.everywhere.popup" timestamp="1577858094422">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="974" y="181" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1577858094422" />
+  </component>
+</project>

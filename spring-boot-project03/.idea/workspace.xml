@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac6b103b-eea8-438b-9d76-a2602900cf27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VjxT8DgHBcrdLMCHFs5hUKVJPm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a\Desktop\project\workspace\spring-boot-project03" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.youngsil.App" />
+      <module name="spring-boot-project03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.youngsil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6b103b-eea8-438b-9d76-a2602900cf27" name="Default Changelist" comment="" />
+      <created>1577780310406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577780310406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="913" y="274" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577781558277">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="913" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1577781558277" />
+    <state width="1341" height="173" key="GridCell.Tab.0.bottom" timestamp="1577784812899">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="173" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577784812899" />
+    <state width="1341" height="173" key="GridCell.Tab.0.center" timestamp="1577784812898">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="173" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1577784812898" />
+    <state width="1341" height="173" key="GridCell.Tab.0.left" timestamp="1577784812898">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="173" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1577784812898" />
+    <state width="1341" height="173" key="GridCell.Tab.0.right" timestamp="1577784812898">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1341" height="173" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1577784812898" />
+    <state x="1064" y="234" key="extract.method.dialog" timestamp="1577782387907">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1064" y="234" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1577782387907" />
+    <state x="381" y="115" key="new project wizard" timestamp="1577784811544">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="381" y="115" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1577784811544" />
+  </component>
+</project>
